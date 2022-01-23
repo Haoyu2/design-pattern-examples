@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MessageService/MessageService.iml" filepath="$PROJECT_DIR$/MessageService/MessageService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessageServices/MessageServices.iml" filepath="$PROJECT_DIR$/MessageServices/MessageServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/design-pattern-examples.iml" filepath="$PROJECT_DIR$/.idea/design-pattern-examples.iml" />
+    </modules>
+  </component>
+</project>
