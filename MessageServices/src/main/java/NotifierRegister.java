@@ -1,7 +1,6 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class NotifierRegiester {
+public class NotifierRegister {
     private Scanner in =  new Scanner(System.in);
     private Publisher[] publishers = new Publisher[]{SMSNotifier.getInstance(), EmailNotifier.getInstance() };
 
@@ -53,7 +52,7 @@ public class NotifierRegiester {
     }
 
     public static void main(String[] args) {
-        NotifierRegiester notifierRegiester = new NotifierRegiester();
+        NotifierRegister notifierRegiester = new NotifierRegister();
         System.out.println(notifierRegiester.getID());
     }
 }

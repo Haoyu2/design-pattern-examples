@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        NotifierRegiester notifierRegiester = new NotifierRegiester();
+        NotifierRegister notifierRegiester = new NotifierRegister();
         notifierRegiester.register();
         notifierRegiester.register();
 
